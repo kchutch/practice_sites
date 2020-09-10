@@ -1,0 +1,177 @@
+* {
+  font-family: "Roboto", sans-serif;
+  color: rgb(89, 92, 96);
+  background-color: #ebefec;
+  box-sizing: border-box;
+}
+
+h1,
+h3 {
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+.home {
+  border: 1px solid rgb(89, 92, 96);
+  background-color: white;
+  width: 20%;
+  margin-left: 40%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px 0 10px 0;
+  font-weight: bold;
+}
+
+.spots {
+  display: flex;
+  flex-flow: row wrap;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-style: none;
+  font-size: 18px;
+}
+
+li {
+  width: 20%;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 125px 10px 125px 10px;
+  color: white;
+  font-style: none;
+  margin: 40px;
+}
+
+.wave {
+  background-image: url(../images/Wave_Organ_2.jpg);
+}
+
+.tiled {
+  background-image: url(../images/tiled.jpg);
+}
+
+.labyrinth {
+  background-image: url(..//images/labyrinth.jpg);
+}
+
+.albion {
+  background-image: url(..//images/albioncastle.jpg);
+}
+
+.mirror {
+  background-image: url(..//images/mirror.jpg);
+}
+
+.seward {
+  background-image: url(../images/seward.jpeg);
+}
+
+.hardy {
+  background-image: url(../images/hardytree.jpg);
+}
+
+.dunstan {
+  background-image: url(../images/dunstan.jpeg);
+}
+
+.leadenhall {
+  background-image: url(../images/leadenhall.jpg);
+}
+
+.highgate {
+  background-image: url(../images/highgate.jpg);
+}
+
+.junkyard {
+  background-image: url(../images/junkyard.jpg);
+}
+
+.platform {
+  background-image: url(../images/Platform.jpg);
+}
+
+.film {
+  background-image: url(../images/film.jpg);
+}
+
+.bbq {
+  background-image: url(../images/bbq.jpg);
+}
+
+.nvmuseum {
+  background-image: url(../images/nvmuseum.jpg);
+}
+
+.culinary {
+  background-image: url(../images/culinary.jpg);
+}
+
+.train {
+  background-image: url(../images/train.jpg);
+}
+
+.harvest {
+  background-image: url(../images/harvest.jpg);
+}
+
+.beekman {
+  background-image: url(../images/beekman.jpg);
+}
+
+.roosevelt {
+  background-image: url(../images/roosevelt.jpg);
+}
+
+.acre {
+  background-image: url(../images/acre.jpg);
+}
+
+.station {
+  background-image: url(../images/station.jpg);
+}
+
+.evolution {
+  background-image: url(../images/evolution.jpg);
+}
+
+.explorer {
+  background-image: url(../images/explorer.jpg);
+}
+
+.preserve {
+  background-image: url(../images/preserve.jpg);
+}
+
+.steelhead {
+  background-image: url(../images/steelhead.jpg);
+}
+
+.gallery {
+  background-image: url(../images/gallery.jpg);
+}
+
+.garden {
+  background-image: url(../images/garden.jpg);
+}
+
+.petaluma {
+  background-image: url(../images/petaluma.jpg);
+}
+
+.viszlay {
+  background-image: url(../images/viszlay.jpg);
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
